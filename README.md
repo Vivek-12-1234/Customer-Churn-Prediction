@@ -73,3 +73,5 @@ Scikit-learn
 ## Conclusion
 
 Although churn prediction is challenging due to class imbalance, the model provides meaningful insights that can help telecom companies identify at-risk customers early and take data-driven retention actions.
+
+## Project link : https://colab.research.google.com/drive/1HZhPVCzfvI7QT7tm41276ha8i_ri3Y9y#scrollTo=8ymiqMH5-Xx1
